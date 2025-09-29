@@ -1,9 +1,9 @@
 # Fong Fing Performance Analysis.
 ### Table of Content.
  - [Project Background and Overview.]( #project-background-and-overview )
- - [Objectives / Project Goals.](#ojectives-/-project-goals)
+ - [Objectives / Project Goals.](#objectives-/-project-goals)
  - [Data Description.]( #data-description)
- - [Techical Detials.]( #techical-details)
+ - [Techical Detials.]( #techical-detials)
  - [Executive Summary.]( #executive-summary)
  - [Insight Deep Dive.](#insight-deep-dive)
    - [Sales Trend and Growth Rates.](#sales-trend-and-growth-rates)
