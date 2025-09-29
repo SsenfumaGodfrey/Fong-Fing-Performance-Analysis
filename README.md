@@ -2,14 +2,14 @@
 ### Table of Content.
  - [Project Background and Overview.]( #project-background-and-overview )
  - [Objectives / Project Goals.](#ojectives-/-project-goals)
- - [Data Description]( #data-description).
- - [Techical Detials]( #techical-details).
- - [Executive Summary]( #executive-summary)
- - [Insight Deep Dive](#insight-deep-dive)
+ - [Data Description.]( #data-description)
+ - [Techical Detials.]( #techical-details)
+ - [Executive Summary.]( #executive-summary)
+ - [Insight Deep Dive.](#insight-deep-dive)
    - [Sales Trend and Growth Rates.](#sales-trend-and-growth-rates)
-   - [Product Performance Per Region](#product-performance-per-region)
-- [Caveat and Assumptions](#caveat-and-assumptions)
-- [Recommendations](#recommendations)
+   - [Product Performance Per Region.](#product-performance-per-region)
+- [Caveat and Assumptions.](#caveat-and-assumptions)
+- [Recommendations.](#recommendations)
 
   
 ## Project Background and Overview.
