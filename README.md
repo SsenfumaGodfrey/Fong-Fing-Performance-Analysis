@@ -1,4 +1,6 @@
 # Fong Fing Performance Analysis.
+### Table of Content.
+*- Project Background and Overview (# projectBackgroundandOverview)*
 ## Project Background and Overview.
 Fing Fong is  a global distributor and wholesaler. Founded in 2002 and  specializes in supplying Samsung mobile phones(cellphones). They are a key link between Samsung and the market. Selling to both B2B clients (70% of revenue like telecoms and retail chains) and B2C consumers (30%).
 Started as a general phone distributor, strategically pivoted to focus on Samsung and successfully expanded into emerging global markets.
