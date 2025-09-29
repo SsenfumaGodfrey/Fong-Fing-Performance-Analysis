@@ -19,3 +19,14 @@ Started as a general phone distributor, strategically pivoted to focus on Samsun
 Complex inventory and supply chain management across different regions such as U.S.A, United Kingdom, Germany and Canada.
 
    Fing Fong has been successful but needs to become data-driven to overcome its challenges and grow. L'm partnering with the Head of Operations to extract insights and deliver recommendations to improve the company's performance across sales as well as helping the marketing team.
+
+   ## Objectives / Project Goals
+   ## Data Description
+   ## Executive Summary
+   ## Insight Deep Dive
+   ### Sales Trend and Growth Rates.
+   ### Product Performance Per Region
+   ## Caveat and Assumptions
+   ## Recommendations
+   
+                          
