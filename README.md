@@ -49,6 +49,8 @@ Complex inventory and supply chain management across different regions such as U
       -    Interactive data visualization 
    ### ER Diagram
   
+  ![relationship](https://github.com/user-attachments/assets/622d0991-ad9b-41df-a1a8-8ce06c3dbeab)
+
    ## Executive Summary
   
    ## Insight Deep Dive
