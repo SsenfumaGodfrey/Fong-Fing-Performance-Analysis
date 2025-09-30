@@ -55,7 +55,7 @@ Complex inventory and supply chain management across different regions such as U
   Fing Fong's sales analysis from December 2024 to June 2025, $513.98k as total revenue and 100.04k cellphones or mobile phones being shipped over that period.
   U.S.A is the top best performancing country contributing 53.34% on the total revenue earned between december 2024 and june 2025, Followed by United Kingdom in the second position with $106.01k on the total revenue. Germany and Canada being the worst performancing countries with the average order value of $66.91k.
 
-   Optimizing bundle and enhancing loyalty program to increase customer lifetime value. Targeted growth in Germary and Canada along with improvement to digital channels like molibe Apps and running social campaigns ads, will strengthen Fing Fong market position and drive sustainable growth.
+   Optimizing bundle and enhancing loyalty program to increase customer lifetime value. Targeted growth in Germary and Canada along with improvement to digital channels like mobile Apps and running social campaigns ads, will strengthen Fing Fong market position and drive sustainable growth.
    ## Insight Deep Dive
    ### Sales Trend and Growth Rates.
    ### Product Performance Per Region
