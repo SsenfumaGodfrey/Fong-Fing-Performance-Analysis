@@ -8,6 +8,7 @@
  - [Insights Deep Dive.](#insights-deep-dive)
    - [Sales Trend and Growth Rates.](#sales-trend-and-growth-rates)
    - [Product Performance Per Region.](#product-performance-per-region)
+   - [Sales Trend and Growth Rate Summary](#sales-trend-and-growth-rate-summary)
 - [Caveat and Assumptions.](#caveat-and-assumptions)
 - [Recommendations.](#recommendations)
 
@@ -57,7 +58,9 @@ Complex inventory and supply chain management across different regions such as U
 
    Optimizing bundle and enhancing loyalty program to increase customer lifetime value. Targeted growth in Germary and Canada along with improvement to digital channels like mobile Apps and running social campaigns ads, will strengthen Fing Fong market position and drive sustainable growth.
    ## Insight Deep Dive
+  
    ### Sales Trend and Growth Rates.
+  Fing Fong average order value of
    ### Product Performance Per Region
    ## Caveat and Assumptions
    ## Recommendations
