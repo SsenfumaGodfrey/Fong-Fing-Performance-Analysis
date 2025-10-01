@@ -58,8 +58,12 @@ Complex inventory and supply chain management across different regions such as U
 
    Optimizing bundle and enhancing loyalty program to increase customer lifetime value. Targeted growth in Germary and Canada along with improvement to digital channels like mobile Apps and running social campaigns ads, will strengthen Fing Fong market position and drive sustainable growth.
    ## Insight Deep Dive
+  ![overview 2](https://github.com/user-attachments/assets/d9e0010a-9acb-4236-ac6d-70e97dd6df19)
+
+  Fing Fong average order value of &256.99k within seven months with 100.04k mobilephones or cellphones shipped between december 2024 and june 2025.
   
    ### Sales Trend and Growth Rates.
+  
   Fing Fong average order value of
    ### Product Performance Per Region
    ## Caveat and Assumptions
