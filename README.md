@@ -58,13 +58,14 @@ Complex inventory and supply chain management across different regions such as U
 
    Optimizing bundle and enhancing loyalty program to increase customer lifetime value. Targeted growth in Germary and Canada along with improvement to digital channels like mobile Apps and running social campaigns ads, will strengthen Fing Fong market position and drive sustainable growth.
    ## Insight Deep Dive
+    ### Sales Trend and Growth Rates.
   ![overview 2](https://github.com/user-attachments/assets/d9e0010a-9acb-4236-ac6d-70e97dd6df19)
 
   Fing Fong average order value of &256.99k within seven months with 100.04k mobilephones or cellphones shipped between december 2024 and june 2025.
+  The business shows seasonality, U.S.A with peak sales contributing $274.15k revenue with 54.12k as total shippment of mobile phones.
+
+  United Kingdom follows in second position with the total revenue($106.01k) with 21.34k mobile phones being shipped in the period of seven months. Germany and Canada havig $133.82k revenue and 24.58k mobilephones being shipped between december 2024 and june 2025. Germany and Canada with a slight  difference of $3931.84 revenue. The difference between U.S.A and United Kingdom is $168136.15 revenue.
   
-   ### Sales Trend and Growth Rates.
-  
-  Fing Fong average order value of
    ### Product Performance Per Region
    ## Caveat and Assumptions
    ## Recommendations
