@@ -96,7 +96,22 @@ Complex inventory and supply chain management across different regions such as U
 ![canada 1](https://github.com/user-attachments/assets/0839bc7d-575b-4110-bc19-ab0840d1111e)
 
 
-   ## Caveat and Assumptions
-   ## Recommendations
+ ## Caveat and Assumptions
+   We assume the provided dataset is accurate and complete. This analysis assumes that historical data between december 2024 and june 2025 is a reliable predictor of future performance.
+   We assume there are no significant measurement errors in the data collection process.
+   Caveat, The data is based on a small sample size, so the results may not be statistically significant.
+   
+ ## Recommendations
+ The most critical finding is the dramatic drop in shipments and revenue from April to June 2025.
+ 
+ Immediate Investigation, Form a task force to diagnose the root cause.
+*Key questions to answer*
+Competitive Action: Did a competitor launch a superior or more affordable product?
+Supply Chain Disruption: Was there a production  component shortage?
+Marketing/Seasonality: Was there a significant reduction in marketing spend or an unexpected seasonal dip?
+Economic Factors: Are there broader economic issues affecting consumer spending in your key markets?
+
+*Short-Term Tactic* Launch a targeted promotional campaign in the U.S.A and Canada for June to clear inventory and stimulate demand.
+   
    
                           
