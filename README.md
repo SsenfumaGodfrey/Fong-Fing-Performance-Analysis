@@ -20,8 +20,7 @@ Started as a general phone distributor, strategically pivoted to focus on Samsun
 Complex inventory and supply chain management across different regions such as U.S.A, United Kingdom, Germany and Canada.
 
    Fing Fong has been successful but needs to become data-driven to overcome its challenges and grow. I'm partnering with the Head of Operations to extract insights and deliver recommendations to improve the company's performance across sales as well as helping the marketing team.
-
-   ## Objectives / Project Goals
+ ## Objectives / Project Goals
    *The main objective of this analysis as below*
    
    - Evaluate Fing Fong's sales performance from December 2024 to June 2025.
@@ -48,7 +47,7 @@ Complex inventory and supply chain management across different regions such as U
       -   Advanced exploratory data analysis
       -    Advanced data manipulation
       -    Interactive data visualization 
-   ### ER Diagram
+  ### ER Diagram
   
   ![relationship](https://github.com/user-attachments/assets/622d0991-ad9b-41df-a1a8-8ce06c3dbeab)
 
@@ -59,7 +58,6 @@ Complex inventory and supply chain management across different regions such as U
    Optimizing bundle and enhancing loyalty program to increase customer lifetime value. Targeted growth in Germary and Canada along with improvement to digital channels like mobile Apps and running social campaigns ads, will strengthen Fing Fong market position and drive sustainable growth.
   
 ## Insight Deep Dive
-
  ### Sales Trend and Growth Rates.
 
   ![overview 2](https://github.com/user-attachments/assets/9a9109ee-d06e-4bba-b759-f5b843f0d9b2)
