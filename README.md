@@ -70,6 +70,10 @@ Complex inventory and supply chain management across different regions such as U
    
    ### Sales Trend and Growth Rate Summary
    The data tells a story of high volatility. The business is expriencing dramatic swing between december 2024 to june 2025, explosive growth and significant contraction.
+
+![growth rate-01](https://github.com/user-attachments/assets/adc69d58-c2df-4498-a7cc-5cb1508d9777)
+
+   
    ### Product Performance Per Region
    ## Caveat and Assumptions
    ## Recommendations
