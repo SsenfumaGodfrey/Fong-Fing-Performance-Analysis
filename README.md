@@ -75,6 +75,27 @@ Complex inventory and supply chain management across different regions such as U
 
    
    ### Product Performance Per Region
+#### U.S.A performance over the period
+   ![USA](https://github.com/user-attachments/assets/ec21f395-72bf-48d8-848e-9ff743353916)  
+   ![USA 1](https://github.com/user-attachments/assets/3062060a-20bd-4d76-a6fc-8cacbf0e2123)
+   
+### United Kingdom Performance over the Period
+    
+   ![uk](https://github.com/user-attachments/assets/bd36aad0-5936-4284-8d1d-5091a9039f02)
+    
+   ![UK1](https://github.com/user-attachments/assets/bdd06a39-5628-436b-b89c-380a6c582f09)
+
+ ### Germany Performance over the Period
+ ![germany](https://github.com/user-attachments/assets/d2a75164-50fd-495b-a20c-74f9d7d7020b)
+ 
+ ![Germany1](https://github.com/user-attachments/assets/3c79df18-d8f5-41b2-8639-57d7ed26948e)
+
+### Canada Performance over the Period
+![canada](https://github.com/user-attachments/assets/75ed9e03-79b6-480d-9867-80814b6ed22e)
+
+![canada 1](https://github.com/user-attachments/assets/0839bc7d-575b-4110-bc19-ab0840d1111e)
+
+
    ## Caveat and Assumptions
    ## Recommendations
    
