@@ -97,9 +97,9 @@ Complex inventory and supply chain management across different regions such as U
 
 
  ## Caveat and Assumptions
-   We assume the provided dataset is accurate and complete. This analysis assumes that historical data between december 2024 and june 2025 is a reliable predictor of future performance.
-   We assume there are no significant measurement errors in the data collection process.
-   Caveat, The data is based on a small sample size, so the results may not be statistically significant.
+   The dataset provided is accurate and complete. This analysis is between december 2024 and june 2025 is not  a reliable predictor of future performance.
+  There are some significant measurement errors in the data collection process.
+  The data is based on a small sample size, so the results may not be statistically significant.
    
  ## Recommendations
  The most critical finding is the dramatic drop in shipments and revenue from April to June 2025.
@@ -112,6 +112,10 @@ Marketing/Seasonality: Was there a significant reduction in marketing spend or a
 Economic Factors: Are there broader economic issues affecting consumer spending in your key markets?
 
 *Short-Term Tactic* Launch a targeted promotional campaign in the U.S.A and Canada for June to clear inventory and stimulate demand.
-   
-   
+
+ Enhance customer engagement, focus on increasing sales in the lower average contribution like United Kingdom, Germany and Canada. By targeting high income demographics and 
+ improving product offerings.
+ Strengthen market presence, leverage successful strategies from high performancing regions like U.S.A and U.K to boost sales in underperforming regions(Germanyand Canada) through tailored marketing  plus promotion. This will help the market team as well as Logistics department.
+
+  Optimize return management, implement more strengthen quality control and return policies to mitigate losses over the shippment process, ehance customer's statisfaction across all regions.
                           
