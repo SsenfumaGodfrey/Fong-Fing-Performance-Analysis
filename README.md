@@ -55,20 +55,21 @@ Complex inventory and supply chain management across different regions such as U
   Fing Fong's sales analysis from December 2024 to June 2025, $513.98k as total revenue and 100.04k cellphones or mobile phones being shipped over that period.
   U.S.A is the top best performancing country contributing 53.34% on the total revenue earned between december 2024 and june 2025, Followed by United Kingdom in the second position with $106.01k on the total revenue. Germany and Canada being the worst performancing countries with the average order value of $66.91k.
 
-   Optimizing bundle and enhancing loyalty program to increase customer lifetime value. Targeted growth in Germary and Canada along with improvement to digital channels like mobile Apps and running social campaigns ads, will strengthen Fing Fong market position and drive sustainable growth.
+   Optimizing bundle and enhancing loyalty program to increase customer lifetime value. Targeted growth in Germary and Canada along with improvement to digital channels like mobile Apps and running social media campaigns ads, will strengthen Fing Fong market position and drive sustainable growth.
   
 ## Insight Deep Dive
  ### Sales Trend and Growth Rates.
 
   ![overview 2](https://github.com/user-attachments/assets/9a9109ee-d06e-4bba-b759-f5b843f0d9b2)
   
-  Fing Fong average order value of &256.99k within seven months with 100.04k mobilephones or cellphones shipped between december 2024 and june 2025.
+  Fing Fong average order value of $256.99k within seven months with 100.04k mobile phones or cell phones shipped between december 2024 and june 2025.
   The business shows seasonality, U.S.A with peak sales contributing $274.15k revenue with 54.12k as total shippment of mobile phones.
 
-  United Kingdom follows in second position with the total revenue($106.01k) with 21.34k mobile phones being shipped in the period of seven months. Germany and Canada havig $133.82k revenue and 24.58k mobilephones being shipped between december 2024 and june 2025. Germany and Canada with a slight  difference of $3931.84 revenue. The difference between U.S.A and United Kingdom is $168136.15 revenue. [Download Here Interactive Dashboards](https://github.com/SsenfumaGodfrey/Fong-Fing-Performance-Analysis/blob/main/Drill%20Through.pbix)
+  United Kingdom follows in second position with the total revenue($106.01k) with 21.34k mobile phones being shipped in the period of seven months. Germany and Canada having $133.82k revenue and 24.58k mobile phones being shipped between december 2024 and june 2025. Germany and Canada with a slight  difference of $3931.84 revenue. The difference between U.S.A and United Kingdom is $168136.15 revenue. With two consecutive months decline (-31.26% in April and -37.38% in May). This is no longer an isolated event but a confirmed downwards trend. This is a serious situation that requires urgent and deep analysis to identify the underlying problem before it threaten the business's viability.   [Download Here Interactive Dashboards](https://github.com/SsenfumaGodfrey/Fong-Fing-Performance-Analysis/blob/main/Drill%20Through.pbix)
   
    
    ### Sales Trend and Growth Rate Summary
+   The data tells a story of high volatility. The business is expriencing dramatic swing between december 2024 to june 2025, explosive growth and significant contraction.
    ### Product Performance Per Region
    ## Caveat and Assumptions
    ## Recommendations
