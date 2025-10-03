@@ -106,7 +106,7 @@ Complex inventory and supply chain management across different regions such as U
  
  Immediate Investigation, Form a task force to diagnose the root cause.
  
-**Key questions to answer**
+**Key questions to answer;**
 
 **Competitive Action**: Did a competitor launch a superior or more affordable product?
 
