@@ -105,7 +105,9 @@ Complex inventory and supply chain management across different regions such as U
  The most critical finding is the dramatic drop in shipments and revenue from April to June 2025.
  
  Immediate Investigation, Form a task force to diagnose the root cause.
-*Key questions to answer*
+ 
+**Key questions to answer**
+
 Competitive Action: Did a competitor launch a superior or more affordable product?
 Supply Chain Disruption: Was there a production  component shortage?
 Marketing/Seasonality: Was there a significant reduction in marketing spend or an unexpected seasonal dip?
