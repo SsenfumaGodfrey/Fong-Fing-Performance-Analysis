@@ -101,7 +101,7 @@ Complex inventory and supply chain management across different regions such as U
   There are some significant measurement errors in the data collection process.
   The data is based on a small sample size, so the results may not be statistically significant.
    
- ## Recommendations
+## Recommendations
  The most critical finding is the dramatic drop in shipments and revenue from April to June 2025.
  
  Immediate Investigation, Form a task force to diagnose the root cause.
@@ -117,5 +117,5 @@ Economic Factors: Are there broader economic issues affecting consumer spending 
  improving product offerings.
  Strengthen market presence, leverage successful strategies from high performancing regions like U.S.A and U.K to boost sales in underperforming regions(Germanyand Canada) through tailored marketing  plus promotion. This will help the market team as well as Logistics department.
 
-  Optimize return management, implement more strengthen quality control and return policies to mitigate losses over the shippment process, ehance customer's statisfaction across all regions.
+Optimize return management, implement more strengthen quality control and return policies to mitigate losses over the shippment process, ehance customer's statisfaction across all regions.
                           
