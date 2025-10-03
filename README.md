@@ -108,12 +108,12 @@ Complex inventory and supply chain management across different regions such as U
  
 **Key questions to answer**
 
-Competitive Action: Did a competitor launch a superior or more affordable product?
-Supply Chain Disruption: Was there a production  component shortage?
-Marketing/Seasonality: Was there a significant reduction in marketing spend or an unexpected seasonal dip?
-Economic Factors: Are there broader economic issues affecting consumer spending in your key markets?
+**Competitive Action**: Did a competitor launch a superior or more affordable product?
+**Supply Chain Disruption**: Was there a production  component shortage?
+**Marketing/Seasonality**: Was there a significant reduction in marketing spend or an unexpected seasonal dip?
+**Economic Factors**: Are there broader economic issues affecting consumer spending in your key markets?
 
-*Short-Term Tactic* Launch a targeted promotional campaign in the U.S.A and Canada for June to clear inventory and stimulate demand.
+**Short-Term Tactic: Launch a targeted promotional campaign in the U.S.A and Canada for June to clear inventory and stimulate demand.**
 
  Enhance customer engagement, focus on increasing sales in the lower average contribution like United Kingdom, Germany and Canada. By targeting high income demographics and 
  improving product offerings.
