@@ -140,8 +140,9 @@ Optimize return management, implement more strengthen quality control and return
 #### 4. Remove Columns And Row Basing On Analysis.
 
 
-     ```sql
-      Create Schema
+   ```SQL
+
+      -- Create Schema
  CREATE SCHEMA projectchurn;
 
  USE projectchurn;
@@ -164,7 +165,8 @@ LIKE order_detials;
  SELECT * FROM order_details_backup;
 
       -- COMMIT;
-      ```
+```
+
        
 
 
