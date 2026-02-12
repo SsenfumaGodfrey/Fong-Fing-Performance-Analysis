@@ -251,12 +251,13 @@ Machine learning expects consistent label encoding.
 ```SQL
 
        -- Standardizing Data Format ---
+
+SELECT * FROM customer_details;
+UPDATE customer_details SET city = UPPER(city);
+UPDATE customer_details SET city = TRIM(city);
  
- SELECT * FROM customer_details;
- UPDATE customer_details SET city = UPPER(city);
- UPDATE customer_details SET city = TRIM(city);
- 
- SELECT * FROM order_details;
+SELECT * FROM order_details;
+
 UPDATE order_details
 SET signup_date = STR_TO_DATE(signup_date, '%m/%d/%Y');
 UPDATE order_details SET order_date = STR_TO_DATE(order_date, '%m/%d/%Y');
@@ -275,6 +276,7 @@ DESC customer_details;
 ALTER TABLE customer_details MODIFY customer_id VARCHAR(5);
  
 DESC order_details;
+
 ALTER TABLE order_details MODIFY signup_date date;
 ALTER TABLE order_details MODIFY order_date date; 
 ALTER TABLE order_details MODIFY last_order_date date;
