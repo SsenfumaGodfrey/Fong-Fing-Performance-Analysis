@@ -185,7 +185,7 @@ Prevents double counting in aggregations: SUM, AVG, COUNT all become wrong.
 Machine learning issues: Models may overfit to repeated rows or give them undue weight.
 
 ```SQL
-     -- check the duplicates with the table ----
+     -- check the duplicates with the table ----             -- SSENFUMA GODFREY Data nerds
     
 SELECT *, ROW_NUMBER() OVER(PARTITION BY
           customer_id,signup_date,
