@@ -183,6 +183,41 @@ Prevents double counting in aggregations: SUM, AVG, COUNT all become wrong.
 
 Machine learning issues: Models may overfit to repeated rows or give them undue weight.
 
+```SQL
+    -- check the duplicates with the table ----
+    
+SELECT *, ROW_NUMBER() OVER(PARTITION BY
+          customer_id,signup_date,
+          order_id, order_date,
+          dish_name,
+          restaurant_name,
+          payment_method,
+          last_order_date    ) AS row_num
+FROM order_detials;
+ 
+ WITH duplicated_cte AS
+      ( 
+ SELECT *, 
+          ROW_NUMBER() OVER(PARTITION BY
+          customer_id,
+          signup_date,
+          order_id,
+          order_date,
+          dish_name,
+          restaurant_name,
+          payment_method,
+          last_order_date    ) AS row_num
+ FROM order_detials)
+                     SELECT * FROM duplicated_cte
+                     WHERE row_num > 1;
 
+-- created new table with row_num column , the table is called order_details
+ 
+      --  Remove the Duplicate Records---
+DELETE FROM order_details
+WHERE row_num > 1;
+
+
+```
 
 
