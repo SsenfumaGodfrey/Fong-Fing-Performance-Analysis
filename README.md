@@ -1,4 +1,4 @@
-# (BUSINESS PERFORMANCE ANALYSIS).
+# (BUSINESS PERFORMANCE ANALYSIS )Fing Fong performance Analysis .
 ### Table of Content.
  - [Project Background and Overview.]( #project-background-and-overview )
  - [Objectives / Project Goals](#objectives-/-project-goals)
@@ -124,3 +124,7 @@ Complex inventory and supply chain management across different regions such as U
 
 Optimize return management, implement more strengthen quality control and return policies to mitigate losses over the shippment process, ehance customer's statisfaction across all regions.
                           
+
+
+
+
