@@ -147,9 +147,9 @@ Optimize return management, implement more strengthen quality control and return
 
  USE projectchurn;
 
-          -- Back Up raw Data-----
- CREATE TABLE customer_details_backup
- LIKE customer_details;
+    -- Back Up raw Data-----
+CREATE TABLE customer_details_backup
+LIKE customer_details;
 
 INSERT INTO customer_details_backup
 SELECT * FROM customer_details;
@@ -184,7 +184,7 @@ Prevents double counting in aggregations: SUM, AVG, COUNT all become wrong.
 Machine learning issues: Models may overfit to repeated rows or give them undue weight.
 
 ```SQL
-    -- check the duplicates with the table ----
+     -- check the duplicates with the table ----
     
 SELECT *, ROW_NUMBER() OVER(PARTITION BY
           customer_id,signup_date,
@@ -211,7 +211,7 @@ FROM order_detials;
                      SELECT * FROM duplicated_cte
                      WHERE row_num > 1;
 
--- created new table with row_num column , the table is called order_details
+      -- created new table with row_num column , the table is called order_details
  
       --  Remove the Duplicate Records---
 DELETE FROM order_details
