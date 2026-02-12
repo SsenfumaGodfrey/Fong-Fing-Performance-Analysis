@@ -145,23 +145,22 @@ Optimize return management, implement more strengthen quality control and return
 
 -- USE projectchurn;
 
-          -- Back Up raw Data
-CREATE TABLE customer_details_backup
-LIKE customer_details;
+          -- Back Up raw Data-----
+-- CREATE TABLE customer_details_backup
+-- LIKE customer_details;
 
-INSERT INTO customer_details_backup 
-SELECT * FROM customer_details;
+-- INSERT INTO customer_details_backup SELECT * FROM customer_details;
 
- SELECT * FROM customer_details_backup;
+ -- SELECT * FROM customer_details_backup;
 
- CREATE TABLE order_details_backup
- LIKE order_detials;
+ -- CREATE TABLE order_details_backup LIKE order_detials;
 
- INSERT INTO order_details_backup 
- SELECT * FROM order_detials;
+-- INSERT INTO order_details_backup SELECT * FROM order_detials;
 
- SELECT * FROM order_details_backup;
+-- SELECT * FROM order_details_backup;
 
+      -- COMMIT;
+       
 
 
 ## 1. WHY Remove Duplicates?
