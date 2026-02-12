@@ -220,4 +220,32 @@ WHERE row_num > 1;
 
 ```
 
+## 2. WHY Standardize Data?
+### ❌ Problem:
+Inconsistent formats cause mismatches, misgrouping and calculation errors.
+
+### ✅ Reasons for text standardization:
+"NY" vs "New York" vs "ny"  treated as different categories = broken grouping.
+
+"john" vs "John" vs "JOHN"  case sensitivity breaks lookups and joins.
+
+" 123 Main St" vs "123 Main St"  trailing spaces cause mismatches.
+
+## ✅ Reasons for date standardization:
+"12/31/2023" vs "2023-12-31" vs "31-Dec-23"  sorting fails, calculations wrong.
+
+Age calculations, time between dates, seasonality analysis all require proper date format.
+
+## ✅ Reasons for numeric standardization:
+"$1,234" vs "1234" → text vs number = can't sum or average.
+
+"5kg" vs "5"  units attached = treated as text.
+
+"00123" vs "123"  leading zeros matter for IDs but not for math.
+
+## ✅ Reasons for categorical standardization:
+Consistent groupings  accurate segmentation and reporting.
+
+Machine learning expects consistent label encoding.
+
 
