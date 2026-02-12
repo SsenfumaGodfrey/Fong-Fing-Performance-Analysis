@@ -1,5 +1,5 @@
-#(BUSINESS PERFORMANCE ANALYSIS )
-#Fing Fong performance Analysis.
+# (BUSINESS PERFORMANCE ANALYSIS )
+# Fing Fong performance Analysis.
 ### Table of Content.
  - [Project Background and Overview.]( #project-background-and-overview )
  - [Objectives / Project Goals](#objectives-/-project-goals)
@@ -302,15 +302,26 @@ Machine learning models can’t handle nulls , they require imputation or remova
 ```sql
 
 
--- Null Values or Blank Values---
+   -- Null Values or Blank Values ---
 
-SELECT delivery_status FROM order_detials WHERE delivery_status =NULL;
-DELETE FROM order_detials WHERE delivery_status =NULL;
+SELECT delivery_status
+FROM order_detials
+WHERE delivery_status = NULL;
 
-SELECT restaurant_name FROM order_detials WHERE restaurant_names =NULL OR restaurant_name = '';
-DELETE FROM order_detials WHERE restaurant_names =NULL OR restaurant_name = '';
+DELETE FROM order_detials
+WHERE delivery_status = NULL;
 
-UPDATE  order_detials SET churned = 'default_VALUE' WHERE churned IS NULL;
+SELECT
+     restaurant_name
+FROM order_detials
+WHERE restaurant_names = NULL OR restaurant_name = '';
+
+DELETE FROM order_detials
+WHERE restaurant_names = NULL OR restaurant_name = '';
+
+UPDATE  order_detials
+SET churned = 'default_VALUE'
+WHERE churned IS NULL;
 
 
 ```
