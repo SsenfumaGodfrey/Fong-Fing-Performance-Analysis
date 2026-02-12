@@ -357,7 +357,7 @@ WHERE payment_method ='Others' ;
  
 ```
 ## BIG PICTURE: Why Data Cleaning Matters
-*-   If you skip cleaning.......................	The consequence*
+*   If you skip cleaning.......................	The consequence*
 -   Duplicates .................................Wrong totals, inflated metrics
 -   Nulls mishandled............................Broken calculations, biased insights
 -   Inconsistent formats........................Misgrouped categories, failed merges
@@ -366,6 +366,6 @@ WHERE payment_method ='Others' ;
 #### Garbage In = Garbage Out (GIGO)
 No matter how sophisticated your analysis or model, if the data is dirty, the output is unreliable.
 
-* ### Data cleaning isn't just a chore... it's the foundation of trustworthy analysis. *
+ ### Data cleaning isn't just a chore... it's the foundation of trustworthy analysis. *
 
 
