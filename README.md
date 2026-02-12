@@ -326,4 +326,33 @@ WHERE churned IS NULL;
 
 ```
 
+# 4. WHY Remove Unnecessary Columns?
+### ❌ Problem:
+Irrelevant columns add noise, complexity and performance issues.
 
+### ✅ Reasons:
+Improves readability and focus only on what matters for analysis.
+
+Reduces file size and  faster load times, less memory usage.
+
+Prevents data leaks in machine learning  like including future information or unique IDs that models memorize.
+
+Simplifies joins and fewer columns = less ambiguity.
+
+Removes redundant data for example derived columns (birth year from birth date) or highly correlated fields.
+
+
+
+```SQL
+
+    -- Removing Irrelevant Columns And rows---
+
+SELECT * FROM order_detials; 
+
+ALTER TABLE  order_detials
+DROP COLUMN order_frequency;
+
+DELETE FROM order_detials
+WHERE payment_method ='Others' ; 
+ 
+```
