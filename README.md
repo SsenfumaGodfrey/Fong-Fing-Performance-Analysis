@@ -134,13 +134,14 @@ Optimize return management, implement more strengthen quality control and return
 ...
 
 
-#### - Remove Duplicates From Dataset.
-#### - Standardizing Of Data.
-#### - Handling Null Valuea And Blank Values.
-#### - Remove Columns And Row Basing On Analysis.
+#### 1. Remove Duplicates From Dataset.
+#### 2. Standardizing Of Data.
+#### 3. Handling Null Valuea And Blank Values.
+#### 4. Remove Columns And Row Basing On Analysis.
 
 
-     ''' -- Create Schema
+     ```sql
+      Create Schema
  CREATE SCHEMA projectchurn;
 
  USE projectchurn;
@@ -162,7 +163,8 @@ LIKE order_detials;
 
  SELECT * FROM order_details_backup;
 
-      -- COMMIT;'''
+      -- COMMIT;
+      ```
        
 
 
