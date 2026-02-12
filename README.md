@@ -185,8 +185,7 @@ Prevents double counting in aggregations: SUM, AVG, COUNT all become wrong.
 Machine learning issues: Models may overfit to repeated rows or give them undue weight.
 
 ```SQL
-     -- check the duplicates with the table ----             -- SSENFUMA GODFREY Data nerds
-    
+     -- check the duplicates with the table ----             
 SELECT *, ROW_NUMBER() OVER(PARTITION BY
           customer_id,signup_date,
           order_id, order_date,
@@ -195,7 +194,8 @@ SELECT *, ROW_NUMBER() OVER(PARTITION BY
           payment_method,
           last_order_date    ) AS row_num
 FROM order_detials;
- 
+                                                -- SSENFUMA GODFREY Data nerds
+    
  WITH duplicated_cte AS
       ( 
  SELECT *, 
@@ -265,7 +265,8 @@ UPDATE order_details SET order_date = STR_TO_DATE(order_date, '%m/%d/%Y');
 UPDATE order_details SET last_order_date = STR_TO_DATE(last_order_date, '%m/%d/%Y');
 UPDATE order_details SET rating_date = STR_TO_DATE(rating_date, '%m/%d/%Y');
  
- 
+                                                                                 -- SSENFUMA GODFREY Data nerds
+    
       -- RENAME THE COLUMN ---
      
 ALTER TABLE cohort RENAME COLUMN order_date TO first_day_topurchase;
@@ -310,7 +311,8 @@ WHERE delivery_status = NULL;
 
 DELETE FROM order_detials
 WHERE delivery_status = NULL;
-
+                                 -- SSENFUMA GODFREY Data nerds
+    
 SELECT
      restaurant_name
 FROM order_detials
@@ -348,7 +350,8 @@ Removes redundant data for example derived columns (birth year from birth date) 
     -- Removing Irrelevant Columns And rows---
 
 SELECT * FROM order_detials; 
-
+                                 -- SSENFUMA GODFREY Data nerds
+    
 ALTER TABLE  order_detials
 DROP COLUMN order_frequency;
 
