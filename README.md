@@ -135,7 +135,7 @@ Optimize return management, implement more strengthen quality control and return
 ...
 
 
-[#### 1. Remove Duplicates From Dataset.](#1._WHY_Remove_Duplicates?)
+[#### 1. Remove Duplicates From Dataset.](##_1._WHY_Remove_Duplicates?)
 [#### 2. Standardizing Of Data.](#2._WHY_Standardize_Data?)
 [#### 3. Handling Null Valuea And Blank Values.](#3_WHY_Handle_Null_or_Blank_Values?)
 [#### 4. Remove Columns And Row Basing On Analysis.](#4._WHY_Remove_Unnecessary_Columns_And_Rows?)
