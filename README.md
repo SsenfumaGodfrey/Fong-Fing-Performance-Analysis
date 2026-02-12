@@ -298,3 +298,20 @@ Statistical distortion; Ignoring nulls can bias results (e.g., only calculating 
 
 Machine learning models can’t handle nulls , they require imputation or removal.
 
+```sql
+
+
+-- Null Values or Blank Values---
+
+SELECT delivery_status FROM order_detials WHERE delivery_status =NULL;
+DELETE FROM order_detials WHERE delivery_status =NULL;
+
+SELECT restaurant_name FROM order_detials WHERE restaurant_names =NULL OR restaurant_name = '';
+DELETE FROM order_detials WHERE restaurant_names =NULL OR restaurant_name = '';
+
+UPDATE  order_detials SET churned = 'default_VALUE' WHERE churned IS NULL;
+
+
+```
+
+
