@@ -283,5 +283,18 @@ ALTER TABLE order_details MODIFY last_order_date date;
 ALTER TABLE order_details MODIFY rating_date date;
 
 
-``` 
+```
+
+ # 3. WHY Handle Null or Blank Values?
+### ❌ Problem:
+Nulls cause errors in calculations, broken joins and missing insights.
+
+### ✅ Reasons:
+Many functions break For example Excel formulas, SQL aggregations, Python math operations).
+
+Visualizations hide data ; charts may show gaps or omit entire rows.
+
+Statistical distortion; Ignoring nulls can bias results (e.g., only calculating average on non-null rows may overestimate).
+
+Machine learning models can’t handle nulls , they require imputation or removal.
 
