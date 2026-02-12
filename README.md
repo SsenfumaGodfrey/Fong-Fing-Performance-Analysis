@@ -141,9 +141,9 @@ Optimize return management, implement more strengthen quality control and return
 
 
      -- Create Schema -------
-CREATE SCHEMA projectchurn;
+-- CREATE SCHEMA projectchurn;
 
-USE projectchurn;
+-- USE projectchurn;
 
           -- Back Up raw Data
 CREATE TABLE customer_details_backup
