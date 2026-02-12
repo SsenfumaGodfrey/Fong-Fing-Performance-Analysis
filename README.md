@@ -250,7 +250,7 @@ Machine learning expects consistent label encoding.
 
 ```SQL
 
- -- Standardizing Data Format---
+       -- Standardizing Data Format ---
  
  SELECT * FROM customer_details;
  UPDATE customer_details SET city = UPPER(city);
@@ -264,12 +264,12 @@ UPDATE order_details SET last_order_date = STR_TO_DATE(last_order_date, '%m/%d/%
 UPDATE order_details SET rating_date = STR_TO_DATE(rating_date, '%m/%d/%Y');
  
  
-     -- RENAME THE COLUMN--
+      -- RENAME THE COLUMN ---
      
 ALTER TABLE cohort RENAME COLUMN order_date TO first_day_topurchase;
 ALTER TABLE cohort RENAME COLUMN last_order_date TO last_day_topurchase;
  
- -- Changing Data Types into correct format--
+     -- Changing Data Types into correct format ---
  
 DESC customer_details;
 ALTER TABLE customer_details MODIFY customer_id VARCHAR(5);
