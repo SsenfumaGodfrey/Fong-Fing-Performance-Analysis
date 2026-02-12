@@ -130,4 +130,7 @@ Optimize return management, implement more strengthen quality control and return
 
 
 # Data Cleaning Project By Using SQL
-
+### Remove Duplicates From Dataset.
+### Standizing Of Data.
+### Handling Null Valuea And Blank Values.
+### Remove Columns And Row Basing On Analysis.
