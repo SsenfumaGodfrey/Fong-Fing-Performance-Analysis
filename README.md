@@ -134,32 +134,35 @@ Optimize return management, implement more strengthen quality control and return
 ...
 
 
-#### Remove Duplicates From Dataset.
-#### Standardizing Of Data.
-#### Handling Null Valuea And Blank Values.
-#### Remove Columns And Row Basing On Analysis.
+#### - Remove Duplicates From Dataset.
+#### - Standardizing Of Data.
+#### - Handling Null Valuea And Blank Values.
+#### - Remove Columns And Row Basing On Analysis.
 
 
-     -- Create Schema -------
--- CREATE SCHEMA projectchurn;
+     ''' -- Create Schema
+ CREATE SCHEMA projectchurn;
 
--- USE projectchurn;
+ USE projectchurn;
 
           -- Back Up raw Data-----
--- CREATE TABLE customer_details_backup
--- LIKE customer_details;
+ CREATE TABLE customer_details_backup
+ LIKE customer_details;
 
--- INSERT INTO customer_details_backup SELECT * FROM customer_details;
+INSERT INTO customer_details_backup
+SELECT * FROM customer_details;
 
- -- SELECT * FROM customer_details_backup;
+ SELECT * FROM customer_details_backup;
 
- -- CREATE TABLE order_details_backup LIKE order_detials;
+CREATE TABLE order_details_backup
+LIKE order_detials;
 
--- INSERT INTO order_details_backup SELECT * FROM order_detials;
+ INSERT INTO order_details_backup
+ SELECT * FROM order_detials;
 
--- SELECT * FROM order_details_backup;
+ SELECT * FROM order_details_backup;
 
-      -- COMMIT;
+      -- COMMIT;'''
        
 
 
