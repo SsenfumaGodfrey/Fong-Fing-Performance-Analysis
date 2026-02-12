@@ -248,4 +248,38 @@ Consistent groupings  accurate segmentation and reporting.
 
 Machine learning expects consistent label encoding.
 
+```SQL
+
+ -- Standardizing Data Format---
+ 
+ SELECT * FROM customer_details;
+ UPDATE customer_details SET city = UPPER(city);
+ UPDATE customer_details SET city = TRIM(city);
+ 
+ SELECT * FROM order_details;
+UPDATE order_details
+SET signup_date = STR_TO_DATE(signup_date, '%m/%d/%Y');
+UPDATE order_details SET order_date = STR_TO_DATE(order_date, '%m/%d/%Y');
+UPDATE order_details SET last_order_date = STR_TO_DATE(last_order_date, '%m/%d/%Y');
+UPDATE order_details SET rating_date = STR_TO_DATE(rating_date, '%m/%d/%Y');
+ 
+ 
+     -- RENAME THE COLUMN--
+     
+ALTER TABLE cohort RENAME COLUMN order_date TO first_day_topurchase;
+ALTER TABLE cohort RENAME COLUMN last_order_date TO last_day_topurchase;
+ 
+ -- Changing Data Types into correct format--
+ 
+DESC customer_details;
+ALTER TABLE customer_details MODIFY customer_id VARCHAR(5);
+ 
+DESC order_details;
+ALTER TABLE order_details MODIFY signup_date date;
+ALTER TABLE order_details MODIFY order_date date; 
+ALTER TABLE order_details MODIFY last_order_date date;
+ALTER TABLE order_details MODIFY rating_date date;
+
+
+``` 
 
