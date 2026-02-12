@@ -123,8 +123,7 @@ Complex inventory and supply chain management across different regions such as U
  Strengthen market presence, leverage successful strategies from high performancing regions like U.S.A and U.K to boost sales in underperforming regions(Germanyand Canada) through tailored marketing  plus promotion. This will help the market team as well as Logistics department.
 
 Optimize return management, implement more strengthen quality control and return policies to mitigate losses over the shippment process, ehance customer's statisfaction across all regions.
-.
-...
+
                           
 
 
@@ -139,3 +138,45 @@ Optimize return management, implement more strengthen quality control and return
 #### Standardizing Of Data.
 #### Handling Null Valuea And Blank Values.
 #### Remove Columns And Row Basing On Analysis.
+
+
+     -- Create Schema -------
+CREATE SCHEMA projectchurn;
+
+USE projectchurn;
+
+          -- Back Up raw Data
+CREATE TABLE customer_details_backup
+LIKE customer_details;
+
+INSERT INTO customer_details_backup 
+SELECT * FROM customer_details;
+
+ SELECT * FROM customer_details_backup;
+
+ CREATE TABLE order_details_backup
+ LIKE order_detials;
+
+ INSERT INTO order_details_backup 
+ SELECT * FROM order_detials;
+
+ SELECT * FROM order_details_backup;
+
+
+
+## 1. WHY Remove Duplicates?
+#### ❌ Problem:
+Duplicate records skew analysis  during counts, averages, and totals become inflated.
+
+#### ✅ Reasons:
+Accurate counts: Duplicates make you think you have more customers and sales, than you actually do.
+
+Fair representation: Each entity like customer and transaction should be counted once.
+
+Prevents double counting in aggregations: SUM, AVG, COUNT all become wrong.
+
+Machine learning issues: Models may overfit to repeated rows or give them undue weight.
+
+
+
+
