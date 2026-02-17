@@ -1,4 +1,4 @@
-# (BUSINESS PERFORMANCE ANALYSIS )
+# BUSINESS PERFORMANCE ANALYSIS 
 # Fing Fong performance Analysis.
 ### Table of Content.
  - [Project Background and Overview.]( #project-background-and-overview )
